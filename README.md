@@ -1,1 +1,5 @@
-# BME450-project
+# Title
+  "Bacterial colony identification 
+## Team members
+
+## Project description
